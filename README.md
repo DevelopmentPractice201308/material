@@ -1,5 +1,9 @@
 # プログラミング演習講義メモ
 ========
+## 補足 (2013.8.7)
+
+来週までに何らかの形で 2 章をすすめておいて下さい。質問などありましたら、このリポジトリの [issue](https://github.com/DevelopmentPractice201308/material/issues) を使って頂けますでしょうか。よろしくお願いします。
+
 ## 第二回 (2013.8.7)
 
 - [rvm, ruby, rails 導入](http://blog.opensquare.jp/?p=1667)
