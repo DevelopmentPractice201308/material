@@ -2,7 +2,7 @@
 ========
 ## 第二回 (2013.8.7)
 
-- [rvm, ruby, rails 導入](http://blog.opensquare.jp/?p=16)
+- [rvm, ruby, rails 導入](http://blog.opensquare.jp/?p=1667)
 - Github 演習
 - [第1章ゼロからデプロイまで](http://railstutorial.jp/chapters/beginning.html#top)
 - [第2章デモアプリケーション](http://railstutorial.jp/chapters/a-demo-app.html#top)
