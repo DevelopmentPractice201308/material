@@ -10,6 +10,9 @@
 ### 補足資料
 - [2013年の展望：ビッグ・データと情報インフラストラクチャ](http://www.gartner.co.jp/b3i/research/130514_app/index.html)
 - [Markdown文法の全訳](http://blog.2310.net/archives/6)
+- [rails server 時に `autodetect': Could not find a JavaScript runtime が出たら。](http://kiyotakagoto.hatenablog.com/entry/2013/05/28/235727)
+- [Team Geek](http://www.amazon.co.jp/dp/4873116309/yamanetoshi-22)
+- [2030年 世界はこう変わる アメリカ情報機関が分析した「17年後の未来」](http://www.amazon.co.jp/dp/4062183765/yamanetoshi-22)
 
 ## 第一回 (2013.8.6)
 
