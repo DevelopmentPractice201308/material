@@ -105,4 +105,4 @@ rails プロジェクト作成後、Gemfile の以下の部分を有効にする
     gem 'therubyracer', :platforms => :ruby
 
 以下、参考まで。
--[rails server 時に `autodetect': Could not find a JavaScript runtime が出たら。](http://kiyotakagoto.hatenablog.com/entry/2013/05/28/235727)
+- [rails server 時に `autodetect': Could not find a JavaScript runtime が出たら。](http://kiyotakagoto.hatenablog.com/entry/2013/05/28/235727)
