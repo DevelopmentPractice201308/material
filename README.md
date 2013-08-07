@@ -12,6 +12,8 @@
 - [第2章デモアプリケーション](http://railstutorial.jp/chapters/a-demo-app.html#top)
 
 ### 補足資料
+- [Github の使い方](http://www.ne.jp/asahi/hishidama/home/tech/git/github.html)
+- [rvm --default use が効かない不思議体験](http://d.hatena.ne.jp/tacamy/20121215/1355531536)
 - [2013年の展望：ビッグ・データと情報インフラストラクチャ](http://www.gartner.co.jp/b3i/research/130514_app/index.html)
 - [Markdown文法の全訳](http://blog.2310.net/archives/6)
 - [rails server 時に `autodetect': Could not find a JavaScript runtime が出たら。](http://kiyotakagoto.hatenablog.com/entry/2013/05/28/235727)
