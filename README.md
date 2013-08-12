@@ -1,5 +1,12 @@
 # プログラミング演習講義メモ
 ========
+## 第三回 (2013.8.14)
+
+- [プログラミングは「教わる」ものか、「学ぶ」ものか？](http://engineer.typemag.jp/article/nakajima-11)
+- [1.3 節](http://railstutorial.jp/chapters/beginning.html#sec-version_control)以降を確認
+- [2 章](http://railstutorial.jp/chapters/a-demo-app.html#top)も再度確認
+- [3 章](http://railstutorial.jp/chapters/static-pages.html#top)をゆっくりめにすすめてみる
+
 ## 補足 (2013.8.7)
 
 来週までに何らかの形で 2 章をすすめておいて下さい。質問などありましたら、このリポジトリの [issue](https://github.com/DevelopmentPractice201308/material/issues) を使って頂けますでしょうか。よろしくお願いします。
