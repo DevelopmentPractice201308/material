@@ -1,5 +1,10 @@
 # プログラミング演習講義メモ
 ========
+## 第四回 (2013.8.15)
+
+- [1.4デプロイする](http://railstutorial.jp/chapters/beginning.html#sec-deploying)
+- [3.1.2Railsによる静的なページ](http://railstutorial.jp/chapters/static-pages.html#sec-static_pages_with_rails)
+
 ## 第三回 (2013.8.14)
 
 - [プログラミングは「教わる」ものか、「学ぶ」ものか？](http://engineer.typemag.jp/article/nakajima-11)
