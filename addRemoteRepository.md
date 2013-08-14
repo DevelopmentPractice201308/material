@@ -15,7 +15,7 @@
 
 ## git remote add コマンド
 
-以下のコマンドにより、.git/config にエントリが追加されます。
+以下のコマンドにより、.git/config にエントリが追加されます。(リポジトリ名はサンプルです)
 
     git remote add github git git@github.com:DevelopmentPractice201308/yamanetoshi_sample_app.git
 
