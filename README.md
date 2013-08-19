@@ -1,5 +1,14 @@
 # プログラミング演習講義メモ
 ========
+## 第五回 (2013.8.22)
+
+- show and tell やります
+- heroku 向けの 22 番開放されたようなので以下にリトライしてみます
+ -  [1.4 デプロイする](http://railstutorial.jp/chapters/beginning.html#sec-deploying)
+- リポジトリも作成してください
+- [3.3.3 埋め込みRuby](http://railstutorial.jp/chapters/static-pages.html#sec-embedded_ruby) のフォローもします
+- [4 Rails風味のRuby](http://railstutorial.jp/chapters/rails-flavored-ruby.html#top)
+
 ## 補足 (2013.8.15)
 
 sample_app リポジトリは以下に示す方法でこちらにもコピィを作成しておいて下さい。push もしておくよう、お願いします。
@@ -9,8 +18,8 @@ sample_app リポジトリは以下に示す方法でこちらにもコピィを
 
 ## 第四回 (2013.8.15)
 
-- [1.4デプロイする](http://railstutorial.jp/chapters/beginning.html#sec-deploying)
-- [3.1.2Railsによる静的なページ](http://railstutorial.jp/chapters/static-pages.html#sec-static_pages_with_rails)
+- [1.4 デプロイする](http://railstutorial.jp/chapters/beginning.html#sec-deploying)
+- [3.1.2 Railsによる静的なページ](http://railstutorial.jp/chapters/static-pages.html#sec-static_pages_with_rails)
 
 ## 第三回 (2013.8.14)
 
