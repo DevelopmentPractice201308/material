@@ -1,5 +1,9 @@
 # プログラミング演習講義メモ
 ========
+## 第六回 (2013.8.23)
+
+- [5 レイアウトを作成する](http://railstutorial.jp/chapters/filling-in-the-layout.html#top)
+
 ## 第五回 (2013.8.22)
 
 - show and tell やります
