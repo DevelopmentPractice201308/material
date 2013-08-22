@@ -2,11 +2,13 @@
 ========
 ## 第六回 (2013.8.23)
 
+- 最初にいくつか発信など
+- show and tell やります
+- [4.2.4メソッドの定義](http://railstutorial.jp/chapters/rails-flavored-ruby.html#sec-method_definitions)
 - [5 レイアウトを作成する](http://railstutorial.jp/chapters/filling-in-the-layout.html#top)
 
 ## 第五回 (2013.8.22)
 
-- show and tell やります
 - heroku 向けの 22 番開放されたようなので以下にリトライしてみます
  -  [1.4 デプロイする](http://railstutorial.jp/chapters/beginning.html#sec-deploying)
 - リポジトリも作成してください
