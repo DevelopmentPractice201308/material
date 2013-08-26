@@ -3,6 +3,10 @@
 
 ## 第八回 (2013.8.27 (予定))
 
+- show and tell やりますよ
+- 自分のペースですすめてください
+- 台風 15 号 (ry
+
 ## 第七回 (2013.8.26 (予定))
 
 - [5 レイアウトを作成する](http://railstutorial.jp/chapters/filling-in-the-layout.html#top)
