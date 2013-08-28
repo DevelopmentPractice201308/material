@@ -8,6 +8,9 @@
  - git rm の取り消しについて (セソコケイジさん)
  - マウスホイールの使用について (ヤビクトモミさん)
 
+- 参考リンク
+ - [チーム開発に必要なgit コマンドを神速で習得しよう！ - 酒と泪とRubyとRailsと](http://morizyun.github.io/blog/how-to-git-review-book/)
+
 ## 第八回 (2013.8.27 (予定))
 
 - show and tell やりますよ
