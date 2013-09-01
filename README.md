@@ -1,7 +1,9 @@
 # プログラミング演習講義メモ
 ========
 
-## 第九回 (未定)
+## 第十回 (2013.9.3 (予定))
+
+## 第九回 (2013.9.2 (予定))
 
 - show and tell
  - .git/config 不具合対応の件 (シモジユウヤさん)
@@ -11,14 +13,20 @@
 - 参考リンク
  - [チーム開発に必要なgit コマンドを神速で習得しよう！ - 酒と泪とRubyとRailsと](http://morizyun.github.io/blog/how-to-git-review-book/)
 
-## 第八回 (2013.8.27 (予定))
+- テキスト
+ - [第6章ユーザーのモデルを作成する](http://railstutorial.jp/chapters/modeling-users.html#top)
+ - [第7章ユーザー登録](http://railstutorial.jp/chapters/sign-up.html#top)
+ - [第8章サインイン、サインアウト](http://railstutorial.jp/chapters/sign-in-sign-out.html#top)
+ - [第9章 ユーザーの更新・表示・削除](http://railstutorial.jp/chapters/updating-showing-and-deleting-users.html#top)
+
+## 第八回 (2013.8.27)
 
 - show and tell やりますよ
 - 自分のペースですすめてください
 - 台風 15 号 (ry
 - みなさんのリポジトリの issue は対応完了しているのであれば close して頂いて構いません
 
-## 第七回 (2013.8.26 (予定))
+## 第七回 (2013.8.26)
 
 - [5 レイアウトを作成する](http://railstutorial.jp/chapters/filling-in-the-layout.html#top)
 
