@@ -1,9 +1,20 @@
 # プログラミング演習講義メモ
 ========
 
-## 第十回 (2013.9.3 (予定))
+## 第十回 (2013.9.3)
 
-## 第九回 (2013.9.2 (予定))
+今回除き、残り三回です。
+
+- show and tell
+ - 引き続き募集しています
+
+- テキスト
+ - [第6章ユーザーのモデルを作成する](http://railstutorial.jp/chapters/modeling-users.html#top)
+ - [第7章ユーザー登録](http://railstutorial.jp/chapters/sign-up.html#top)
+ - [第8章サインイン、サインアウト](http://railstutorial.jp/chapters/sign-in-sign-out.html#top)
+ - [第9章 ユーザーの更新・表示・削除](http://railstutorial.jp/chapters/updating-showing-and-deleting-users.html#top)
+
+## 第九回 (2013.9.2)
 
 - show and tell
  - .git/config 不具合対応の件 (シモジユウヤさん)
