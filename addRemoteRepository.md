@@ -10,7 +10,7 @@
 [この organization](https://github.com/DevelopmentPractice201308) でリポジトリを新規に作成します。手順としては
 - 右上の create a new repo ボタンをクリック
 - owner を DevelopmentPractice201308 に変更
-- リポジトリ名は自分のユーザアカウント_sample_app としてください (sample_app の場合)
+- リポジトリ名は自分のユーザアカウントとしてください
 - あとは通常のリポジトリの作成方法と同様です
 
 ## git remote add コマンド
@@ -23,4 +23,4 @@
 
     $ git push -u github master
 
-sample_app については DevelopmentPractice201308 という organization への提出は必須です。
+sample_app については @DevelopmentPractice201308 という organization への提出が必須です。
