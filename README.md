@@ -9,8 +9,14 @@
 - [提出リポジトリのつくりかた](./addRemoteRepository.md)
 
 ## 第十三回
-## 第十二回
-## 第十一回
+## 第十二回 (2013.9.13 (予定))
+## 第十一回 (2013.9.12 (予定))
+
+- テキスト
+ - [第6章ユーザーのモデルを作成する](http://railstutorial.jp/chapters/modeling-users.html#top)
+ - [第7章ユーザー登録](http://railstutorial.jp/chapters/sign-up.html#top)
+ - [第8章サインイン、サインアウト](http://railstutorial.jp/chapters/sign-in-sign-out.html#top)
+ - [第9章 ユーザーの更新・表示・削除](http://railstutorial.jp/chapters/updating-showing-and-deleting-users.html#top)
 
 ## 第十回 (2013.9.3)
 
