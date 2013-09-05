@@ -17,6 +17,8 @@
  - [第7章ユーザー登録](http://railstutorial.jp/chapters/sign-up.html#top)
  - [第8章サインイン、サインアウト](http://railstutorial.jp/chapters/sign-in-sign-out.html#top)
  - [第9章 ユーザーの更新・表示・削除](http://railstutorial.jp/chapters/updating-showing-and-deleting-users.html#top)
+ - [第10章ユーザーのマイクロポスト](http://railstutorial.jp/chapters/user-microposts#top)
+ - [第11章ユーザーをフォローする](http://railstutorial.jp/chapters/following-users#top)
 
 ## 第十回 (2013.9.3)
 
