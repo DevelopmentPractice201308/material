@@ -10,6 +10,10 @@
 
 ## 第十四回 (2013.9.20)
 ## 第十三回 (2013.9.17)
+
+- [Git Handson](https://github.com/yamanetoshi/Git-Handson/blob/master/tutorial.md)
+- [Git でやり直す方法](https://github.com/yamanetoshi/Git-Handson/blob/master/retry.md)
+
 ## 第十二回 (2013.9.13)
 ## 第十一回 (2013.9.12)
 
